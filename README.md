@@ -1,4 +1,4 @@
-# 📗 Text Vectorization with TF, TF-IDF & Normalization 
+#  Text Vectorization with TF, TF-IDF & Normalization 
 
 This notebook explains how raw text is transformed into **numerical features** that machine-learning models can understand.  
 It covers **Bag-of-Words, TF, Binary Encoding, TF-IDF, Normalization (L1/L2)** and shows how to build feature matrices using `scikit-learn`.

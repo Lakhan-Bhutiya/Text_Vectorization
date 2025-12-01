@@ -1,4 +1,4 @@
-# 📗 Text Vectorization with TF, TF-IDF & Normalization (NLP Book 2)
+# 📗 Text Vectorization with TF, TF-IDF & Normalization 
 
 This notebook explains how raw text is transformed into **numerical features** that machine-learning models can understand.  
 It covers **Bag-of-Words, TF, Binary Encoding, TF-IDF, Normalization (L1/L2)** and shows how to build feature matrices using `scikit-learn`.
@@ -93,8 +93,19 @@ This is an essential step before building:
 
 ---
 
-##  How to Run
+
+## How to Run
 
 1. Clone the repository:
    ```bash
    git clone https://github.com/Lakhan-Bhutiya/Text_Vectorization
+   ```
+2. Install required libraries:
+   ```
+   pip install nltk
+   ```
+   
+3.Open the notebook:
+   ```
+   jupyter notebook
+   ```
